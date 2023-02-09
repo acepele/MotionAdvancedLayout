@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MotionAdvancedLayout</string>
+    <string name="constraintLayout">constraintLayout</string>
+</resources>
